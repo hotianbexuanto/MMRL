@@ -339,9 +339,9 @@
     <string name="explore_more_repositories">Explore more Repositories</string>
     <string name="get_the_most_out_of_mmrl">Get the most out of MMRL!</string>
     <string name="allow_advanced_kernelsu_api">Allow access to the Advanced KernelSU API?</string>
-    <string name="allow_advanced_kernelsu_api_desc">Do you want to allow this module to use the Advanced KernelSU API? If you don't trust it, you can deny access</string>
+    <string name="allow_advanced_kernelsu_api_desc">Do you want to allow this module to use the Advanced KernelSU API? If you do not trust it, you can deny access</string>
     <string name="allow_filesystem_api">Allow access to the FileSystem API?</string>
-    <string name="allow_filesystem_api_desc">Do you want to allow this module to use the FileSystem API? If you don't trust it, you can deny access</string>
+    <string name="allow_filesystem_api_desc">Do you want to allow this module to use the FileSystem API? If you do not trust it, you can deny access</string>
     <string name="settings_provider_service">Provider Service</string>
     <string name="settings_provider_service_desc">Keep the provider running in the background to significantly reduce startup times and improve overall responsiveness</string>
     <string name="notification_name_repository">Repository Service</string>
@@ -351,7 +351,7 @@
     <string name="repository_service_stopped">Repository Service stopped</string>
     <string name="module_service_stopped">Module Service stopped</string>
     <string name="working_mode_change_dialog_title">Change Working Mode?</string>
-    <string name="working_mode_change_dialog_desc">By changing the Working Mode, you are required to restart the app and all associated services for the new mode to be properly applied. Please note that by pressing "Apply", you're initiating the process that will restart the app and all services to ensure the changes take effect as expected.</string>
+    <string name="working_mode_change_dialog_desc">By changing the Working Mode, you are required to restart the app and all associated services for the new mode to be properly applied. Please note that by pressing Apply, you are initiating the process that will restart the app and all services to ensure the changes take effect as expected.</string>
     <string name="keep">Keep</string>
     <string name="apply">Apply</string>
     <string name="repository_service_started">Repository Service Started</string>
@@ -366,7 +366,7 @@
     <string name="view_module_features_mmrl_webui">MMRL WebUI</string>
     <string name="view_module_features_mmrl_webui_sub">This module includes a MMRL only WebUI.</string>
     <string name="view_module_features_mmrl_webui_config">MMRL WebUI Config</string>
-    <string name="view_module_features_mmrl_webui_config_sub">This module uses a config file for WebUI's in MMRL</string>
+    <string name="view_module_features_mmrl_webui_config_sub">This module uses a config file for WebUIs in MMRL</string>
     <string name="view_module_features_filesystem">FileSystem API</string>
     <string name="view_module_features_filesystem_sub">This module maybe used the FileSystem API provided by MMRL.</string>
     <string name="view_module_features_eruda">Eruda Console</string>
