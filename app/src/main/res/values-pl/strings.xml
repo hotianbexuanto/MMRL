@@ -149,7 +149,7 @@
     <string name="settings_updates_desc">Zarządzaj swoimi preferencjami dotyczącymi procesu aktualizacji</string>
     <string name="we_hit_a_brick_crash">Trafiliśmy na ścianę!</string>
     <string name="report_to_issues">Zgłoś problemy</string>
-    <string name="stack_trace_truncated">%s
+    <string name="stack_trace_truncated" formatted="false">%s
 \n… %d więcej</string>
     <string name="additional_notes">Dodatkowe uwagi</string>
     <string name="repo_added">Repo zostało dodane</string>
@@ -164,7 +164,7 @@
     <string name="settings_check_modules_update_interval">Częstotliwość sprawdzania aktualizacji</string>
     <string name="settings_check_modules_update_interval_desc">Wybierz przedział czasowy sprawdzania zainstalowanych modułów</string>
     <string name="has_a_new_update">%1$s ma nową aktualizację!</string>
-    <string name="update_available_from_to">Aktualizacja dostępna od %s (%d) do %s (%d).</string>
+    <string name="update_available_from_to" formatted="false">Aktualizacja dostępna od %s (%d) do %s (%d).</string>
     <string name="repo_options">Opcje</string>
     <string name="settings_homepage">Strona startowa</string>
     <string name="events_birthday">%1$s lat MMRL!</string>
@@ -322,7 +322,7 @@
     <string name="module_service_stopped">Usługa modułu zatrzymana</string>
     <string name="repository_service_stopped">Usługa repozytorium zatrzymana</string>
     <string name="provider_service_stopped">Usługa dostawcy zatrzymana</string>
-    <string name="working_mode_change_dialog_desc">Zmieniając tryb pracy, musisz ponownie uruchomić aplikację i wszystkie powiązane usługi, aby nowy tryb został prawidłowo zastosowany. Należy pamirtać, że naciskając „Zastosuj”, inicjujesz proces, który ponownie uruchomi aplikację i wszystkie usługi, aby upewnić się, że zmiany zostaną zastosowane zgodnie z oczekiwaniami.</string>
+    <string name="working_mode_change_dialog_desc">Zmieniając tryb pracy, musisz ponownie uruchomić aplikację i wszystkie powiązane usługi, aby nowy tryb został prawidłowo zastosowany. Należy pamirtać, że naciskając "Zastosuj", inicjujesz proces, który ponownie uruchomi aplikację i wszystkie usługi, aby upewnić się, że zmiany zostaną zastosowane zgodnie z oczekiwaniami.</string>
     <string name="keep">Zachowaj</string>
     <string name="apply">Zastosuj</string>
     <string name="settings_provider_service_desc">Utrzymuj działanie dostawcy w tle, aby znacznie skrócić czas uruchamiania i poprawić ogólną responsywność</string>

@@ -178,17 +178,17 @@
     <string name="help">مساعدة</string>
     <string name="we_hit_a_brick_crash">لقد واجهتنا مشكلة!</string>
     <string name="report_to_issues">الإبلاغ عن مشاكل</string>
-    <string name="stack_trace_truncated">%s\n… %d المزيد</string>
+    <string name="stack_trace_truncated" formatted="false">%s\n… %d المزيد</string>
     <string name="additional_notes">ملاحظات إضافية</string>
     <string name="repo_added">تم إضافة المستودع</string>
     <!-- Work Manager -->
     <!-- Repo Update Service -->
-<string name="repo_update_service">تم تحديث المستودعات بنجاح</string>
+    <string name="repo_update_service">تم تحديث المستودعات بنجاح</string>
     <string name="repo_update_service_desc">لا تقلق، MMRL قام بتحديث المستودعات المثبتة لديك. 😋</string>
     <string name="repo_update_service_failed">لم يتم العثور على تحديثات للمستودعات</string>
     <string name="repo_update_service_failed_desc">لا توجد تحديثات للمستودعات</string>
     <string name="has_a_new_update">%1$s لديه تحديث جديد!</string>
-    <string name="update_available_from_to">التحديث متاح من %s (%d) إلى %s (%d).</string>
+    <string name="update_available_from_to" formatted="false">التحديث متاح من %s (%d) إلى %s (%d).</string>
     <string name="page_home">الصفحة الرئيسية</string>
     <string name="view_module_license">الترخيص</string>
     <string name="view_module_module_support">تفاصيل اخرى</string>
@@ -262,8 +262,8 @@
     <string name="working_mode_kernelsu_next_title">KernelSU Next</string>
     <string name="working_mode_apatch_desc">يقوم بتعديل الكيرنيل الخاص بالأندرويد و كذالك النظام. يعتمد على الكيرنيل مع دعم الإضافات مثل Magisk. مبني على KernelSU.</string>
     <string name="working_mode_kernelsu_next_desc">حل جذري متقدم قائم على النواة مع دعم magic mount وتحكم محسن في تطبيقات المستخدم مع امكانية التخصيص</string>
-    <string name="view_module_install_confirm_desc"><![CDATA[هل أنت متأكد من أنك تود تثبيت <font color=\"%1$s\">%2$s</font>?]]></string>
-    <string name="view_module_install_confirm_desc_deps">&lt;![CDATA[هل انت متأكد من أنك تود تثبيت &lt;font color=\\\"%1$s\\\"&gt;%2$s&lt;/font&gt;?]]&gt;هذه الإضافة تتطلب ايضا:]]&gt;</string>
+    <string name="view_module_install_confirm_desc"><![CDATA[هل أنت متأكد من أنك تود تثبيت <font color="%1$s">%2$s</font>?]]></string>
+    <string name="view_module_install_confirm_desc_deps"><![CDATA[هل انت متأكد من أنك تود تثبيت <font color="%1$s">%2$s</font>? هذه الإضافة تتطلب ايضا:]]></string>
     <string name="view_module_unsupported_device">جهاز غير مدعوم</string>
     <string name="view_module_unsupported_arch">بنية غير مدعومة</string>
     <string name="view_module_required_root_version">اصدار الروت المطلوب</string>
